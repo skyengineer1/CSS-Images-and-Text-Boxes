@@ -1,0 +1,89 @@
+img.image1 {
+    width: 200px;
+    border-radius: 10px;
+    object-fit: cover;
+    margin-right: 10px;
+}
+
+img.image2 {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-right: 10px;
+}
+
+img.image3 {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    object-fit: cover;
+}
+
+input.search {
+    padding: 10px;
+    display: block;
+    margin-top: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+input.shadow {
+    margin-top: 50px;
+    width: 500px;
+    padding: 10px;
+    font-size: 20px;
+    border: none;
+    box-shadow: 1px 1px 1px 3px lightgrey;
+    border-radius: 30px;
+}
+
+div.email {
+    margin-top: 50px;
+    color: grey;
+}
+
+input.email {
+    padding: 5px;
+    width: 360px;
+}
+
+button.agree {
+    background-color: dodgerblue;
+    color: white;
+    padding: 15px 125px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+div.twitter {
+    margin-top: 50px;
+}
+
+img.image4 {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    object-fit: cover;
+    vertical-align: middle;
+}
+
+input.input1 {
+    vertical-align: middle;
+    border: none;
+    padding: 10px 20px;
+    font-size: 20px;
+}
+
+button.tweet {
+    vertical-align: middle;
+    background-color: dodgerblue;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 18px;
+}
